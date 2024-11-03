@@ -1,4 +1,20 @@
 
+*{
+    background-color: darkgrey;
+}
+
+.conteiner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tabla{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .calculadora{
     background-color: dimgray;
     width: 400px;
