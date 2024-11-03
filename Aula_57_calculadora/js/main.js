@@ -9,7 +9,6 @@ function crearcalculadora(){
             this.clickBoton();
             this.precionaEnter();
         },
-
         
         clearDisplay(){
             this.display.value = '';
