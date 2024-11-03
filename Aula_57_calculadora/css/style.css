@@ -1,0 +1,26 @@
+
+.calculadora{
+    background-color: dimgray;
+    width: 400px;
+}
+
+.display{
+    font-size: 2em;
+    width: 98%;
+    text-align: right;
+}
+
+.btn{
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    font-size: 1.7em;
+    border: none;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: rgb(1, 51, 1);
+    color: aliceblue;
+}
+
